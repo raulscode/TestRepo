@@ -2,7 +2,7 @@ This file is not actually blank.
 Def not blank anymore.
 Maybe I can make it blank in the future.
 Cool, it worked.
-Here is another like for good measure.
+Here is another line for good measure.
 And other.
 Here is a cat:
  _._     _,-'""`-._
